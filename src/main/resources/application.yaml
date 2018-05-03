@@ -1,0 +1,11 @@
+environment:
+  dev:
+    url: http://dev.bar.com
+    name: Develop Setup
+  prod:
+    url: http://prod.bar.com
+    name: Prod Setup
+
+server:
+  port: 8881
+
